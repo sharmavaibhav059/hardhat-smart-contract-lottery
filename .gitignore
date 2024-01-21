@@ -1,0 +1,8 @@
+#hardhat
+artifacts
+cache
+deployments
+node_modules
+
+#env
+.env
